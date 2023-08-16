@@ -50,3 +50,16 @@ To run the project, use any of the following scripts that have currently been se
   `npm run client`
 - To empty and then repopulate the database with the data from backend/src/data/userData.json:
   `npm run data:import`
+
+  ## DOL Job Functions
+JF 3.2 cn explain the principles and uses of relational and non-relational databases
+
+JF 4.3 Is able to build, manage and deploy code into the relavant environment
+
+JF 3.7 Can implement authentication and authorization to an API
+
+JF 1.1 Can explain all stages of the sofare development life cycle
+
+JF 2.6 Can translate wireframes into User interfaces
+
+
